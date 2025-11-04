@@ -1,0 +1,6 @@
+scikit-learn
+fastapi
+uvicorn
+mlflow
+numpy
+python-multipart
