@@ -23,7 +23,7 @@ jobs:
         run: python train.py
 
       - name: Build Docker image
-        run: docker build -t mlops-demo:latest .
+        run: docker build -t mlops1:latest .
 
       - name: Confirm build
         run: echo "✅ CI/CD pipeline executed successfully!"
