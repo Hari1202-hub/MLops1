@@ -1,0 +1,10 @@
+artifact_location: file:///D:/mlops/demo/mlops1/mlruns/0/models/m-719b879f26ce46ccbb467f52052ad2ea/artifacts
+creation_timestamp: 1762289141192
+experiment_id: '0'
+last_updated_timestamp: 1762289146923
+model_id: m-719b879f26ce46ccbb467f52052ad2ea
+model_type: null
+name: linear_model
+source_run_id: b120ba9dae284b28a37b44600ac8c26d
+status: 2
+status_message: null

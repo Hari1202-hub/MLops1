@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/mlops/demo/mlops1/mlruns/0/b120ba9dae284b28a37b44600ac8c26d/artifacts
+end_time: 1762289146946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b120ba9dae284b28a37b44600ac8c26d
+run_name: luminous-snipe-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762289141085
+status: 3
+tags: []
+user_id: HariPrasanthM
